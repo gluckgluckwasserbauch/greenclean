@@ -21,3 +21,9 @@ Most of the prize of a commercial product is defined by
 * Big marketing budget
 * Value chain (employees, packaging, machines, etc.)
 Because we do it at home, we can invest much more money for our high quality, eco-friendly and in general better raw materials.
+
+# Values  
+Companies know exactly, that *their* product is the exact same as the one from their competitor for half the price.
+This is why they boost the percieved value of said product by better marketing and useless additives (dyes, fragance, etc.) just to make the product appear as more high-value as it is.  
+We, on the other hand, try to keep the formulation stupid-simple (KISS-principle) and also as eco-friendly and harmless as possible.
+We don't *have* to keep it 100% bio-based or "natural", but still try our best.
